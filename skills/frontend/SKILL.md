@@ -1,5 +1,5 @@
 ---
-name: frontend-design-v3
+name: frontend
 description: Advanced visual design guidance for creating distinctive, fluid interfaces with intentional motion, animated backgrounds, and no AI-slop defaults. Every choice is derived from the subject—not from trends.
 version: 3.0
 ---
