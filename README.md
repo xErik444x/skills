@@ -2,4 +2,4 @@
 
 ## Frontend
 
-> `npx skills add https://github.com/botpress/skills --skill adk-frontend`
+> `npx skills add https://github.com/xErik444x/skills --skill frontend`
